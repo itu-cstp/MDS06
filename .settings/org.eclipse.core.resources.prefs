@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/dk/itu/trustcare/smds_e2012/taskmanager_conversion/ITaskmanagerHelperService.java=UTF-8
+encoding//src/org/datacontract/schemas/_2004/_07/ITU_DK_DCRS_CommonTypes_Verification/VerificationSettings.java=UTF-8
+encoding//src/org/tempuri/BasicHttpBinding_ITaskmanagerHelperServiceStub.java=UTF-8
+encoding//src/org/tempuri/BasicHttpBinding_IVerificationServiceStub.java=UTF-8
+encoding//src/org/tempuri/IVerificationService.java=UTF-8
+encoding//src/org/tempuri/TaskmanagerHelperService.java=UTF-8
+encoding//src/org/tempuri/TaskmanagerHelperServiceLocator.java=UTF-8
+encoding//src/org/tempuri/VerificationService.java=UTF-8
+encoding//src/org/tempuri/VerificationServiceLocator.java=UTF-8
